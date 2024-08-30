@@ -1,0 +1,60 @@
+# Ignore the bin and obj directories
+bin/
+obj/
+
+# Ignore the Visual Studio Code directory
+.vscode/
+
+# Ignore Visual Studio temporary files, build results, and 
+# user-specific settings
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider IDE files
+.idea/
+.idea_modules/
+*.sln.iml
+
+# Ignore Recycle Bin folder on Windows
+$RECYCLE.BIN/
+
+# Ignore Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Ignore folder config file
+Desktop.ini
+
+# Ignore Windows shortcuts
+*.lnk
+
+# Ignore ASP.NET Scaffolding files
+ScaffoldingReadMe.txt
+
+# Ignore NPM packages
+node_modules/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore Entity Framework Migrations
+Migrations/
+
+# Ignore application settings files
+appsettings*.json
+
+# Ignore log files
+*.log
+
+# Ignore publish output
+PublishOutput/
+
